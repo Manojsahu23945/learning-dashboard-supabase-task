@@ -1,5 +1,7 @@
 # LearnFlow – Student Dashboard
 
+🔗 **Live Demo**: [learning-dashboard-supabase-task-wzta-h34rdmnry-manoj16.vercel.app](https://learning-dashboard-supabase-task-wzta-h34rdmnry-manoj16.vercel.app/dashboard)
+
 A futuristic, animated student dashboard built with Next.js 14 App Router, Supabase, Tailwind CSS, and Framer Motion.
 
 ---
